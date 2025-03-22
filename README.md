@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/273467e8-738c-4099-85db-02fb0a9f1f35)
+![image](https://github.com/user-attachments/assets/273467e8-738c-4099-85db-02fb0a9f1f35) 
 
 ### *Project Title: E-Commerce Sales Performance Analysis in Power BI*  
 
